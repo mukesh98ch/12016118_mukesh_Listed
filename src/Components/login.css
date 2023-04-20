@@ -1,0 +1,207 @@
+.mainpage{
+    display: flex;
+    
+}
+.left-h{
+    position: absolute;
+width: 550px;
+height: 90vh;
+left: 0px;
+top: 0px;
+
+background:#68266F;
+color: #fff;
+
+}
+.Board{
+    margin-top: 300px;
+    margin-left: 17px;
+    font-family: 'Montserrat';
+font-style: normal;
+
+font-size: 72px;
+
+}
+.right-h{
+position: absolute;
+width: 1000px;
+height: 90vh;
+left: 550px;
+top: 0px;
+
+background: #eceaea;
+}
+
+.Signin{
+    margin-top: 150px;
+    margin-left: -100px;
+    padding-bottom: 200px;
+}
+.sign{
+    left: 200px;
+}
+.Account1{
+    position: absolute;
+width: 140px;
+height: 25px;
+left: 302px;
+top: 254px;
+font-size: 12px;
+background: #fff;
+border-radius: 10px;
+line-height: 15px;
+
+
+display: flex;
+align-items: center;
+text-align: center;
+}
+.Account2{
+    position: absolute;
+width: 140px;
+height: 25px;
+left: 510px;
+top: 254px;
+background: #fff;
+border-radius: 10px;
+font-size: 12px;
+line-height: 15px;
+
+display: flex;
+align-items: center;
+text-align: center;
+}
+.img1{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+left: 0.44%;
+right: 14.9%;
+top: 0%;
+bottom: 60.03%;
+}
+.img2{
+    width: 23px;
+    height: 23px;
+    position: absolute;
+left: 0.44%;
+right: 12.9%;
+top: 0%;
+bottom: 60.03%;
+}
+.form{
+    
+
+background: #FFFFFF;
+border-radius: 20px;
+position: absolute;
+left: 300px;
+right: 150px;
+top: 300px;
+width: 350px;
+height: 200px;
+
+
+}
+.pass{
+    position: absolute;
+width: 96px;
+height: 19px;
+left: 2px;
+top: 70px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+}
+.email{
+    position: absolute;
+width: 96px;
+height: 19px;
+left: 15px;
+top: 15px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+}
+.blank1{
+    position: absolute;
+    border: none;
+left: 20px;
+top: 35px;
+padding: 5px 74px;
+
+background: #edeaea;
+border-radius: 10px;
+
+}
+.blank2{
+  position: absolute;
+  left: 20px;
+  top: 90px;
+  padding: 5px 74px;
+  border: none;
+  background-color: #efebeb;
+border-radius: 10px;
+}
+.forg{
+    position: absolute;
+    width: 124px;
+    height: 19px;
+    left: 15px;
+    top: 124px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #346BD5;
+      
+}
+.button-container{
+    position: absolute;
+    border: none;
+    background-color: #68266F;
+    color: white;
+    padding: 5px 130px;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+width: 310px;
+height: 30px;
+left: 20px;
+top: 150px;
+
+}
+.acco{
+    position: absolute;
+width: 261px;
+height: 19px;
+left: 350px;
+top: 490px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+color: #858585;
+
+}
+

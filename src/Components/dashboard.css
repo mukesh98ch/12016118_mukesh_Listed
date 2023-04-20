@@ -1,0 +1,344 @@
+.Container{
+    margin-top: 700px;
+}
+.left{
+    position: absolute;
+left: 2%;
+right: 80%;
+top: 95%;
+bottom: 0%;
+height: 960px;
+font-family: 'Montserrat';
+font-style: normal;
+background: #68266F;
+border-radius: 20px;
+color: aliceblue;
+font-size: 24px;
+}
+.footer1{
+    position: absolute;
+left: 20.86%;
+right: 70%;
+top: 87.92%;
+bottom: 10.28%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+
+
+}
+.footer2{
+    position: absolute;
+left: 17.86%;
+right: 54.29%;
+top: 91.84%;
+bottom: 6.36%;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+
+}
+.dash{
+    position: absolute;
+left: 31.43%;
+right: 31.43%;
+top: 17.37%;
+bottom: 80.3%;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+
+
+
+color: #FFFFFF;
+}
+.icd{
+    position: absolute;
+
+right: 93.88%;
+top: 17.70%;
+bottom: 80.51%;
+
+
+
+}
+.ics{
+    position: absolute;
+
+right: 97.88%;
+top: 3%;
+bottom: 85.51%;
+}
+.icu{
+    position: absolute;
+
+right: 122%;
+top: 3%;
+bottom: 80.51%;
+}
+
+
+.tran{
+    position: absolute;
+left: 29.53%;
+right: 27.5%;
+top: 21.94%;
+bottom: 73.73%;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF;
+
+}
+.sch{
+    position: absolute;
+    left: 31.43%;
+    right: 35.36%;
+    top: 26.51%;
+    bottom: 67.16%;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    
+}
+.user{
+    position: absolute;
+    left: 35.43%;
+    right: 50.71%;
+    top: 31.08%;
+    bottom: 60.59%;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    
+    
+}
+.sett{
+    position: absolute;
+    left: 30.43%;
+    right: 41.79%;
+    top: 35.64%;
+    bottom: 54.03%;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    
+}
+.hed{
+    position: absolute;
+    left: 25%;
+    top: 92%;
+    font-family: 'Montserrat';
+font-style: normal;
+}
+.sear{
+    position: absolute;
+    left: 76%;
+    top: 95%;
+    border: none;
+    background-color: #e5e5e7;
+    border-radius: 10px;
+    width: 180px;
+    height: 25px;
+    box-sizing: border-box;
+}
+.noti{
+    position: absolute;
+    left: 89%;
+    top: 95.5%;
+    width: 20px;
+    height: 20px;
+
+}
+
+
+
+
+
+
+.rev{
+    position: absolute;
+left: 25%;
+right: 62%;
+top: 103%;
+bottom: 0%;
+width: 250px;
+height: 100px;
+background: #A0E495;
+border-radius: 20px;
+font-family: 'Montserrat';
+font-style: normal;
+}
+.tans{
+    position: absolute;
+    left: 43%;
+    right: 45%;
+    top: 103%;
+    bottom: 0%;
+    height: 100px;
+    width: 250px;
+    background: #8cc0db;
+    border-radius: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+}
+.like{
+    position: absolute;
+    left: 61%;
+    right: 35%;
+    top: 103%;
+    bottom: 0%;
+    height: 100px;
+    width: 250px;
+    background: #f3bdbd;
+    border-radius: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+}
+.tuser{
+    position: absolute;
+    left: 79%;
+    right: 25%;
+    top: 103%;
+    bottom: 0%;
+    height: 100px;
+    width: 250px;
+    background: #797e9f;
+    font-family: 'Montserrat';
+    font-style: normal;
+    border-radius: 20px;
+}
+.Analytics{
+    position: absolute;
+left: 25%;
+right: 4.70%;
+top: 123%;
+bottom: 0%;
+height: 400px;
+background: #e0dddd;
+border-radius: 20px;
+position: absolute;
+font-family: 'Montserrat';
+font-style: normal;
+color: #000000;
+
+}
+.pie{
+    position: absolute;
+    left: 25%;
+    right: 40.70%;
+    top: 183%;
+    bottom: 0%;
+    height: 304px;
+    background: #e2dbdb;
+    border-radius: 20px;
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    color: #000000;
+    
+}
+.date{
+    position: absolute;
+width: 97px;
+height: 15px;
+left: 420px;
+top: 3px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #797575;
+
+}
+.Todaysch{
+    position: absolute;
+    left: 62%;
+    right: 4.70%;
+    top: 183%;
+    bottom: 0%;
+    height: 304px;
+    background: #e2dbdb;
+    border-radius: 20px;
+    font-family: 'Montserrat';
+font-style: normal;
+  font-size: 20px;
+    color: #000000;
+}
+.keypoint{
+    
+position: absolute;
+width: 350px;
+height: 0px;
+left: 50px;
+top: 50px;
+
+border: 5px solid #9BDD7C;
+transform: rotate(0deg);
+}
+.keypoint2{
+    position: absolute;
+width: 350px;
+height: 0px;
+left: 50px;
+top: 150px;
+
+border: 5px solid #8f7cdd;
+transform: rotate(0deg);
+}
+.see{
+    position: absolute;
+width: 41px;
+height: 15px;
+left: 450px;
+top: 6px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #858585;
+}
+.rev1{
+ position: absolute;
+left: 0%;
+}
+.tans1{
+    position: absolute;
+left: 0%;
+}
+.like1{
+    position: absolute;
+    left: 0%;
+    width: 50px;
+    height: 50px;
+}
+.user1{
+    position: absolute;
+    left: 0%;
+    
+}
+.icse{
+    position: absolute;
+    left: 86.5%;
+    top: 95.3%;
+}
+.Pro{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 92%;
+}
+
